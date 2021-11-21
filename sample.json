@@ -1,0 +1,1388 @@
+{
+    "name": "McCormack-Timothy",
+    "displayName": "McCormack, Timothy",
+    "fields": {
+        "Priority": {
+            "value": ""
+        },
+        "TitleTagOverride": {
+            "value": "Timothy F. McCormack"
+        },
+        "CustomMetadata": {
+            "value": ""
+        },
+        "MetaDescription": {
+            "value": ""
+        },
+        "MetaKeywords": {
+            "value": ""
+        },
+        "NoFollow": {
+            "value": false
+        },
+        "NoIndex": {
+            "value": false
+        },
+        "Page Title Override": {
+            "value": ""
+        },
+        "DescriptionOverrideForOpenGraph": {
+            "value": ""
+        },
+        "ImageOverrideForOpenGraph": {
+            "value": {}
+        },
+        "TitleOverrideForOpenGraph": {
+            "value": ""
+        },
+        "DescriptionOverrideForTwitter": {
+            "value": ""
+        },
+        "ImageOverrideForTwitter": {
+            "value": {}
+        },
+        "TitleOverrideForTwitter": {
+            "value": ""
+        },
+        "Header Copy": {
+            "value": ""
+        },
+        "Legacy Path": {
+            "value": "/sitecore/content/Home/People/Attorneys/McCormack_Timothy"
+        },
+        "LegacyUrl": {
+            "value": "/people/attorneys/mccormack_timothy"
+        },
+        "HideFromSearch": {
+            "value": false
+        }
+    },
+    "databaseName": "web",
+    "deviceId": "fe5d7fdf-89c0-4d99-9aa3-b5fbd009c9f3",
+    "itemId": "5e527cb4-57fe-45a1-a864-3a22d90a3d8e",
+    "itemLanguage": "en",
+    "itemVersion": 5,
+    "layoutId": "6d79dc15-af9d-5232-9931-c2ea8e13d748",
+    "templateId": "7d5ba658-d89e-41a7-8445-d74d349f0a8f",
+    "templateName": "Attorney",
+    "placeholders": {
+        "head": [
+            {
+                "uid": "9446e423-3f44-48a7-a02d-075d9f2c0c79",
+                "componentName": "Metadata",
+                "dataSource": "",
+                "params": {},
+                "fields": {
+                    "Title": "Timothy F. McCormack | People | Ballard Spahr",
+                    "Keywords": "Timothy,McCormack",
+                    "Description": "",
+                    "Robots": "index,follow",
+                    "TwitterTitle": "Timothy F. McCormack | People | Ballard Spahr",
+                    "OpenGraphTitle": "Timothy F. McCormack | People | Ballard Spahr",
+                    "TwitterDescription": "",
+                    "OpenGraphDescription": "",
+                    "TwitterImage": "/-/media/Main/People/M/Timothy-McCormack/Timothy-McCormack.jpg?rev=b376dd650e52436d8441f4d13a5506c7",
+                    "OpenGraphImage": "/-/media/Main/People/M/Timothy-McCormack/Timothy-McCormack.jpg?rev=b376dd650e52436d8441f4d13a5506c7",
+                    "TwitterSite": "@BallardSpahrLLP"
+                }
+            }
+        ],
+        "header": [
+            {
+                "uid": "15ab6b6a-b2e4-4e21-9819-9d3ec7e83273",
+                "componentName": "GlobalNavigation",
+                "dataSource": "{B13E8E9D-B861-49EF-8D58-55519409A4D8}",
+                "params": {},
+                "fields": {
+                    "HomepageDesktopLogo": {
+                        "value": {
+                            "src": "/-/media/Images/Logos/logo-stacked.svg?iar=0&rev=ac16779de4ee4ffd93aa348987472e47&hash=535ACD53A603C22F57C4A4B850937646",
+                            "alt": "Ballard Spahr black and white text logo"
+                        }
+                    },
+                    "Logo": {
+                        "value": {
+                            "src": "/-/media/Images/Logos/logo.svg?iar=0&rev=d176f02d66c041c5bb3bbc3f139fd587&hash=36D0E6DE03BD3D9AB99F5531C5236C2D",
+                            "alt": ""
+                        }
+                    },
+                    "PrimaryNavigation": [
+                        {
+                            "id": "570c2659-78db-4677-9c84-6575f1682fc0",
+                            "fields": {
+                                "Text": {
+                                    "value": "People"
+                                },
+                                "Link": {
+                                    "value": {
+                                        "href": "/People",
+                                        "text": "",
+                                        "anchor": "",
+                                        "linktype": "internal",
+                                        "class": "",
+                                        "title": "",
+                                        "querystring": "",
+                                        "id": "{FB9C2544-4E05-4138-8E47-857EDFB88251}"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": "d4ec5841-e480-41ae-913d-3d419a64ba5d",
+                            "fields": {
+                                "Text": {
+                                    "value": "About Us"
+                                },
+                                "Link": {
+                                    "value": {
+                                        "href": "/About",
+                                        "text": "",
+                                        "anchor": "",
+                                        "linktype": "internal",
+                                        "class": "",
+                                        "title": "",
+                                        "target": "",
+                                        "querystring": "",
+                                        "id": "{374382C5-197B-41F8-AC43-A9E0B4CEE1E6}"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": "f7c8fde3-9965-4d59-b6e7-2298f48f6f4f",
+                            "fields": {
+                                "Text": {
+                                    "value": "Services"
+                                },
+                                "Link": {
+                                    "value": {
+                                        "href": "/Services",
+                                        "text": "",
+                                        "anchor": "",
+                                        "linktype": "internal",
+                                        "class": "",
+                                        "title": "",
+                                        "querystring": "",
+                                        "id": "{CCA87938-4822-42D5-87AB-78AFEAC340A2}"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": "fe18bcc4-6704-4c65-879e-05bcbceeae0b",
+                            "fields": {
+                                "Text": {
+                                    "value": "Insights"
+                                },
+                                "Link": {
+                                    "value": {
+                                        "href": "/Insights",
+                                        "text": "",
+                                        "anchor": "",
+                                        "linktype": "internal",
+                                        "class": "",
+                                        "title": "",
+                                        "querystring": "",
+                                        "id": "{5CF649C0-6883-44FB-B49C-0DEF4F5C7432}"
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "SecondaryNavigation": [
+                        {
+                            "id": "427a589c-e75a-47cd-8973-da0a0c2e382f",
+                            "fields": {
+                                "Text": {
+                                    "value": "Offices "
+                                },
+                                "Link": {
+                                    "value": {
+                                        "href": "/Offices",
+                                        "text": "",
+                                        "anchor": "",
+                                        "linktype": "internal",
+                                        "class": "",
+                                        "title": "",
+                                        "querystring": "",
+                                        "id": "{4B979514-335F-4B06-8AFB-EE29342CAE12}"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": "2be333a7-1038-456d-9823-c9bec1c5ca59",
+                            "fields": {
+                                "Link": {
+                                    "value": {
+                                        "href": "/Careers",
+                                        "text": "",
+                                        "anchor": "",
+                                        "linktype": "internal",
+                                        "class": "",
+                                        "title": "",
+                                        "target": "",
+                                        "querystring": "",
+                                        "id": "{F1F0B43B-7CD8-4986-A1BB-F885761C5520}"
+                                    }
+                                },
+                                "Text": {
+                                    "value": "Careers"
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        ],
+        "content": [
+            {
+                "uid": "2b88f2c7-8fab-407f-9487-20fd867900e7",
+                "componentName": "TwoColumn",
+                "dataSource": "",
+                "params": {},
+                "placeholders": {
+                    "aside": [
+                        {
+                            "uid": "fbb70b9e-f617-41fd-aa34-587ea5f3f3b0",
+                            "componentName": "PeopleDetail",
+                            "dataSource": "{1786B1BB-E5C0-4EE5-98F1-58FDC0B1CFE5}",
+                            "params": {},
+                            "fields": {
+                                "Level": {
+                                    "value": ""
+                                },
+                                "MiddleInitial": {
+                                    "value": "F."
+                                },
+                                "Photo": {
+                                    "value": {
+                                        "src": "/-/media/Main/People/M/Timothy-McCormack/Timothy-McCormack.jpg?h=490&iar=0&w=480&rev=b376dd650e52436d8441f4d13a5506c7&hash=58283B7B2E7F89B5171B502D60142321",
+                                        "alt": "Timothy McCormack",
+                                        "width": "480",
+                                        "height": "490"
+                                    }
+                                },
+                                "Pronouns": null,
+                                "Title": {
+                                    "id": "ee405b85-2170-47d7-b59f-213fe8829fe8",
+                                    "fields": {
+                                        "Name": {
+                                            "value": "Senior Counsel"
+                                        },
+                                        "Icon": {
+                                            "value": {}
+                                        },
+                                        "Key": {
+                                            "value": ""
+                                        }
+                                    }
+                                },
+                                "DisplayName": {
+                                    "value": ""
+                                },
+                                "Email": {
+                                    "value": "mccormackt@ballardspahr.com"
+                                },
+                                "EmployeeId": {
+                                    "value": "07108"
+                                },
+                                "FirstName": {
+                                    "value": "Timothy"
+                                },
+                                "LastName": {
+                                    "value": "McCormack"
+                                },
+                                "Nickname": {
+                                    "value": ""
+                                },
+                                "ShowCell": {
+                                    "value": false
+                                },
+                                "CellNumber": {
+                                    "value": ""
+                                },
+                                "Facebook": {
+                                    "value": {
+                                        "href": ""
+                                    }
+                                },
+                                "LinkedIn": {
+                                    "value": {
+                                        "href": ""
+                                    }
+                                },
+                                "SocialIcon": {
+                                    "value": {}
+                                },
+                                "SocialLink": {
+                                    "value": {
+                                        "href": ""
+                                    }
+                                },
+                                "Twitter": {
+                                    "value": {
+                                        "href": ""
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "uid": "8dc9a1e3-e6ce-4454-a162-1ea48b7cbf85",
+                            "componentName": "RelatedOffices",
+                            "dataSource": "",
+                            "params": {},
+                            "placeholders": {
+                                "related-offices": [
+                                    {
+                                        "uid": "a035d724-df12-4536-9761-b2e67b2855c5",
+                                        "componentName": "RelatedOffice",
+                                        "dataSource": "{16EEAF71-D05C-468D-84E4-D48EAEDF32C4}",
+                                        "params": {},
+                                        "fields": {
+                                            "FaxNumber": {
+                                                "value": "410.528.5650"
+                                            },
+                                            "Office": {
+                                                "id": "9bb64ff7-9709-4b36-a921-25a6b92f783b",
+                                                "url": "/Offices/Baltimore",
+                                                "fields": {
+                                                    "Name": {
+                                                        "value": "Baltimore"
+                                                    },
+                                                    "OfficePhoto": {
+                                                        "value": {
+                                                            "src": "/-/media/Images/Offices_OneNorth/GettyImages-107863827.jpg?h=1414&iar=0&w=2121&rev=386754fd16464d2d971d1210a1296fa6&hash=014AE7E7C5192BE6CF7F5553716A5A33",
+                                                            "alt": "",
+                                                            "width": "2121",
+                                                            "height": "1414"
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            "OfficeNumber": {
+                                                "value": "410.528.5680"
+                                            },
+                                            "HideFaxNumber": {
+                                                "value": false
+                                            },
+                                            "HideOfficeNumber": {
+                                                "value": false
+                                            }
+                                        },
+                                        "hasContent": true
+                                    }
+                                ]
+                            },
+                            "hasContent": true
+                        }
+                    ],
+                    "main-header": [
+                        {
+                            "uid": "30c3177c-84ec-47eb-bd91-c7a13f40704d",
+                            "componentName": "Social",
+                            "dataSource": "{1786B1BB-E5C0-4EE5-98F1-58FDC0B1CFE5}",
+                            "params": {},
+                            "fields": {
+                                "Level": {
+                                    "value": ""
+                                },
+                                "MiddleInitial": {
+                                    "value": "F."
+                                },
+                                "Photo": {
+                                    "value": {
+                                        "src": "/-/media/Main/People/M/Timothy-McCormack/Timothy-McCormack.jpg?h=490&iar=0&w=480&rev=b376dd650e52436d8441f4d13a5506c7&hash=58283B7B2E7F89B5171B502D60142321",
+                                        "alt": "Timothy McCormack",
+                                        "width": "480",
+                                        "height": "490"
+                                    }
+                                },
+                                "Pronouns": null,
+                                "Title": {
+                                    "id": "ee405b85-2170-47d7-b59f-213fe8829fe8",
+                                    "fields": {
+                                        "Name": {
+                                            "value": "Senior Counsel"
+                                        },
+                                        "Icon": {
+                                            "value": {}
+                                        },
+                                        "Key": {
+                                            "value": ""
+                                        }
+                                    }
+                                },
+                                "DisplayName": {
+                                    "value": ""
+                                },
+                                "Email": {
+                                    "value": "mccormackt@ballardspahr.com"
+                                },
+                                "EmployeeId": {
+                                    "value": "07108"
+                                },
+                                "FirstName": {
+                                    "value": "Timothy"
+                                },
+                                "LastName": {
+                                    "value": "McCormack"
+                                },
+                                "Nickname": {
+                                    "value": ""
+                                },
+                                "ShowCell": {
+                                    "value": false
+                                },
+                                "CellNumber": {
+                                    "value": ""
+                                },
+                                "Facebook": {
+                                    "value": {
+                                        "href": ""
+                                    }
+                                },
+                                "LinkedIn": {
+                                    "value": {
+                                        "href": ""
+                                    }
+                                },
+                                "SocialIcon": {
+                                    "value": {}
+                                },
+                                "SocialLink": {
+                                    "value": {
+                                        "href": ""
+                                    }
+                                },
+                                "Twitter": {
+                                    "value": {
+                                        "href": ""
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "main": [
+                        {
+                            "uid": "c145706b-913c-4e26-8824-db5653e14bd7",
+                            "componentName": "MainSectionBlock",
+                            "dataSource": "",
+                            "params": {},
+                            "placeholders": {
+                                "main-section": [
+                                    {
+                                        "uid": "ba6a2f4d-045c-45f3-b3ed-d59ff937ef36",
+                                        "componentName": "ProfessionalOverview",
+                                        "dataSource": "{BB4FE7CE-C62A-4A89-B93B-637EC50BFA1F}",
+                                        "params": {},
+                                        "fields": {
+                                            "ReadMoreText": {
+                                                "value": "Tim&rsquo;s extensive litigation experience includes state and federal jury and nonjury trials. He has argued cases before the U.S. Court of Appeals for the Fourth Circuit, the U.S. Court of Appeals for the District of Columbia, and the District of Columbia Court of Appeals. He has successfully prosecuted and defended cases involving a wide variety of issues, including claims of lender liability, employment matters, civil rights claims, constitutional claims, and noncompetition agreements."
+                                            },
+                                            "Text": {
+                                                "value": "<p><strong>Timothy F. McCormack concentrates on commercial creditors in insolvency actions, particularly those involving distressed real estate, and on private-sector employment law on behalf of management. Tim&rsquo;s practice involves defense of employers in actions alleging violations of Title VII, including claims of discrimination based on race, sex, national origin, and religion. He also regularly defends claims brought under the ADA and ADEA.</strong></p>\n<p>Tim represents financial institutions and special servicers of securitized mortgage loans in disputes involving lender liability, fraud, breach of fiduciary duty, bad faith, foreclosure, collections, and regulatory issues. He has handled claims involving virtually every aspect of banking operations, including check claims, wire fraud, account disputes, and state and federal regulatory compliance.</p>"
+                                            }
+                                        },
+                                        "placeholders": {
+                                            "read-more-content": []
+                                        },
+                                        "hasContent": true
+                                    },
+                                    {
+                                        "uid": "10c39eee-8a66-4231-ba4c-d7670ebd1411",
+                                        "componentName": "AreasOfFocus",
+                                        "dataSource": "{BD8A7A2D-54FB-465F-A113-8D7DCE8CE9B8}",
+                                        "params": {},
+                                        "fields": {
+                                            "RelatedServices": [
+                                                {
+                                                    "id": "44956407-6d1c-4a3f-b145-b5aa4c21f4c6",
+                                                    "url": "/Services/Departments/Litigation",
+                                                    "fields": {
+                                                        "PageTitle": {
+                                                            "value": "Litigation"
+                                                        },
+                                                        "ServiceTypes": [
+                                                            {
+                                                                "id": "0b18e9d2-b6c5-4c77-ba7c-358406dd2d3b",
+                                                                "fields": {
+                                                                    "Name": {
+                                                                        "value": "Departments"
+                                                                    }
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "id": "a19d8e4b-7aba-4c74-9379-4158fcd5cbfa",
+                                                    "url": "/Services/Practices/Labor-and-Employment",
+                                                    "fields": {
+                                                        "PageTitle": {
+                                                            "value": "Labor and Employment"
+                                                        },
+                                                        "ServiceTypes": [
+                                                            {
+                                                                "id": "ed5baef8-e6d4-4981-aad6-c8158d7e04d7",
+                                                                "fields": {
+                                                                    "Name": {
+                                                                        "value": "Practices"
+                                                                    }
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "id": "148dbae8-51a4-4137-966b-ad654db87426",
+                                                    "url": "/Services/Practices/Bankruptcy",
+                                                    "fields": {
+                                                        "PageTitle": {
+                                                            "value": "Bankruptcy and Restructuring"
+                                                        },
+                                                        "ServiceTypes": [
+                                                            {
+                                                                "id": "ed5baef8-e6d4-4981-aad6-c8158d7e04d7",
+                                                                "fields": {
+                                                                    "Name": {
+                                                                        "value": "Practices"
+                                                                    }
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "id": "f0f54b68-4b3c-4f2f-97b3-975736ff6b0e",
+                                                    "url": "/Services/Practices/Commercial-Litigation-and-Dispute-Resolution",
+                                                    "fields": {
+                                                        "PageTitle": {
+                                                            "value": "Commercial Litigation"
+                                                        },
+                                                        "ServiceTypes": [
+                                                            {
+                                                                "id": "ed5baef8-e6d4-4981-aad6-c8158d7e04d7",
+                                                                "fields": {
+                                                                    "Name": {
+                                                                        "value": "Practices"
+                                                                    }
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "id": "be9db38e-5c15-4e34-b14f-3af06776c5bc",
+                                                    "url": "/Services/Industries/Education",
+                                                    "fields": {
+                                                        "PageTitle": {
+                                                            "value": "Education"
+                                                        },
+                                                        "ServiceTypes": [
+                                                            {
+                                                                "id": "659e9e31-faa9-4c72-943b-7f3ab5add11c",
+                                                                "fields": {
+                                                                    "Name": {
+                                                                        "value": "Industries"
+                                                                    }
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "id": "907e30ad-14cf-4aed-ad32-44a51694cda9",
+                                                    "url": "/Services/Practices/Real-Estate-Finance",
+                                                    "fields": {
+                                                        "PageTitle": {
+                                                            "value": "Real Estate Finance"
+                                                        },
+                                                        "ServiceTypes": [
+                                                            {
+                                                                "id": "ed5baef8-e6d4-4981-aad6-c8158d7e04d7",
+                                                                "fields": {
+                                                                    "Name": {
+                                                                        "value": "Practices"
+                                                                    }
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "id": "bc424fcc-bd66-4c1c-b87b-947de52e700f",
+                                                    "url": "/Services/Initiatives/Distressed-Real-Estate",
+                                                    "fields": {
+                                                        "PageTitle": {
+                                                            "value": "Distressed Real Estate"
+                                                        },
+                                                        "ServiceTypes": [
+                                                            {
+                                                                "id": "fc01e0d8-48fd-42af-85a2-03d35705b555",
+                                                                "fields": {
+                                                                    "Name": {
+                                                                        "value": "Initiatives"
+                                                                    }
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "id": "52796e7a-8863-4ca9-97fe-a359990a41ea",
+                                                    "url": "/Services/Practices/Real-Estate-and-Construction-Litigation",
+                                                    "fields": {
+                                                        "PageTitle": {
+                                                            "value": "Real Estate and Construction Litigation"
+                                                        },
+                                                        "ServiceTypes": [
+                                                            {
+                                                                "id": "ed5baef8-e6d4-4981-aad6-c8158d7e04d7",
+                                                                "fields": {
+                                                                    "Name": {
+                                                                        "value": "Practices"
+                                                                    }
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "id": "7ec85d20-b5a2-4150-b687-556b5475e974",
+                                                    "url": "/Services/Industries/Banking-and-Financial-Services",
+                                                    "fields": {
+                                                        "PageTitle": {
+                                                            "value": "Banking and Financial Services"
+                                                        },
+                                                        "ServiceTypes": [
+                                                            {
+                                                                "id": "659e9e31-faa9-4c72-943b-7f3ab5add11c",
+                                                                "fields": {
+                                                                    "Name": {
+                                                                        "value": "Industries"
+                                                                    }
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                },
+                                                {
+                                                    "id": "d5bec22c-0266-44f4-8a8a-62e48381fe3c",
+                                                    "url": "/Services/Initiatives/Accessibility",
+                                                    "fields": {
+                                                        "PageTitle": {
+                                                            "value": "Accessibility"
+                                                        },
+                                                        "ServiceTypes": [
+                                                            {
+                                                                "id": "fc01e0d8-48fd-42af-85a2-03d35705b555",
+                                                                "fields": {
+                                                                    "Name": {
+                                                                        "value": "Initiatives"
+                                                                    }
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            },
+                            "hasContent": true
+                        },
+                        {
+                            "uid": "e927b3bb-87eb-403b-aef1-6d62b9a00ce9",
+                            "componentName": "MainSectionBlock",
+                            "dataSource": "{39EBD9A0-2629-4361-B579-9A281FAF48D5}",
+                            "params": {},
+                            "fields": {
+                                "Header": {
+                                    "value": "Experience\u00a0"
+                                }
+                            },
+                            "placeholders": {
+                                "main-section": [
+                                    {
+                                        "uid": "66f23d00-ed9f-40d0-8036-5b113b29f3ee",
+                                        "componentName": "RepresentativeMatters",
+                                        "dataSource": "{C4A037D5-740E-452A-B2A8-7288965A873A}",
+                                        "params": {},
+                                        "fields": {
+                                            "ReadMoreText": {
+                                                "value": ""
+                                            },
+                                            "Text": {
+                                                "value": ""
+                                            }
+                                        },
+                                        "placeholders": {
+                                            "read-more-content": []
+                                        },
+                                        "hasContent": false
+                                    },
+                                    {
+                                        "uid": "93d087fe-dbaa-4026-8dc2-d6e4c91cff63",
+                                        "componentName": "RepresentativeMattersWithoutLabel",
+                                        "dataSource": "",
+                                        "params": {},
+                                        "hasContent": false
+                                    },
+                                    {
+                                        "uid": "39ab788d-a5e2-4bbc-b930-6231a78234a0",
+                                        "componentName": "ProfessionalHighlightsWithoutLabel",
+                                        "dataSource": "",
+                                        "params": {},
+                                        "placeholders": {
+                                            "read-more-content": []
+                                        },
+                                        "hasContent": false
+                                    },
+                                    {
+                                        "uid": "10bd9036-a240-4eda-8c77-58582d02a6b6",
+                                        "componentName": "Experience",
+                                        "dataSource": "{5D3E597D-C025-4C40-9E26-A0A94CB537D8}",
+                                        "params": {},
+                                        "fields": {
+                                            "ReadMoreText": {
+                                                "value": ""
+                                            },
+                                            "Text": {
+                                                "value": ""
+                                            }
+                                        },
+                                        "placeholders": {
+                                            "read-more-content": []
+                                        },
+                                        "hasContent": false
+                                    }
+                                ]
+                            },
+                            "hasContent": false
+                        },
+                        {
+                            "uid": "09db344f-49b3-4e15-9f8e-1bf277f19144",
+                            "componentName": "MainSectionBlock",
+                            "dataSource": "{1318EA97-8BB5-4F3D-A2A5-B01558E5A881}",
+                            "params": {},
+                            "fields": {
+                                "Header": {
+                                    "value": "Professional Highlights"
+                                }
+                            },
+                            "placeholders": {
+                                "main-section": [
+                                    {
+                                        "uid": "76f338ef-479c-49c0-8fd7-f4042a9e3855",
+                                        "componentName": "ProfessionalActivities",
+                                        "dataSource": "{4D5AAA8C-843B-42C4-91A3-73447DA25CD2}",
+                                        "params": {},
+                                        "fields": {
+                                            "ReadMoreText": {
+                                                "value": ""
+                                            },
+                                            "Text": {
+                                                "value": "\n<p>American Bar Association</p>\n<p>Bar Association of the District of Columbia </p>\n<p>Maryland State Bar Association</p>\n<p>National Association of College and University Attorneys, Associate Member</p>\n"
+                                            }
+                                        },
+                                        "placeholders": {
+                                            "read-more-content": []
+                                        },
+                                        "hasContent": true
+                                    },
+                                    {
+                                        "uid": "9ad20afd-2e64-4389-addb-a89ae1dadc8c",
+                                        "componentName": "RecognitionAndAccomplishments",
+                                        "dataSource": "{EB3EA440-D6D1-4760-A477-7EC165AB35B9}",
+                                        "params": {},
+                                        "fields": {
+                                            "ReadMoreText": {
+                                                "value": ""
+                                            },
+                                            "Text": {
+                                                "value": "<p><em>The Best Lawyers in America</em>, bankruptcy and creditor debtor right/insolvency and reorganization law, 2019-2022</p>\n<p>Recipient, Ballard Spahr's Alan J. Davis Award, 2011 for his pro bono work as a member of the Asylum Initiative, 2013 for his pro bono work as a member of the Prisoner Civil Rights Team, 2014 for his pro bono work as a member of the Families in Crisis Team</p>\n<p><em>Baltimore SmartCEO </em>magazine, Maryland \"Legal Elite\" designee, 2006</p>"
+                                            }
+                                        },
+                                        "placeholders": {
+                                            "read-more-content": []
+                                        }
+                                    },
+                                    {
+                                        "uid": "7c8f1a0b-f7c3-48b7-b263-ce19a89cbf2f",
+                                        "componentName": "SpeakingEngagements",
+                                        "dataSource": "{4A961773-AB2F-4F61-AD84-C568FF6E46AA}",
+                                        "params": {},
+                                        "fields": {
+                                            "ReadMoreText": {
+                                                "value": ""
+                                            },
+                                            "Text": {
+                                                "value": "<p>\"Religious Garb and Grooming in the Workplace: Rights, Responsibilities &amp; 2014 EEOC Guidance,\" Housing Development and Law Institute 2015 Spring Legal Conference, Washington, April 10, 2015</p>"
+                                            }
+                                        },
+                                        "placeholders": {
+                                            "read-more-content": []
+                                        }
+                                    },
+                                    {
+                                        "uid": "96b5c7d3-6af0-40ee-bf0f-e8d5c66db19a",
+                                        "componentName": "BoardMembershipsAndCommunityService",
+                                        "dataSource": "{ADD6A65E-7C46-4C80-93B0-ED3C6C542C84}",
+                                        "params": {},
+                                        "fields": {
+                                            "ReadMoreText": {
+                                                "value": ""
+                                            },
+                                            "Text": {
+                                                "value": ""
+                                            }
+                                        },
+                                        "placeholders": {
+                                            "read-more-content": []
+                                        }
+                                    },
+                                    {
+                                        "uid": "a780b925-10d5-4d03-8a7b-6cf55c6197ae",
+                                        "componentName": "Publications",
+                                        "dataSource": "{4D7D870C-044D-4815-B72C-4980E05B763B}",
+                                        "params": {},
+                                        "fields": {
+                                            "ReadMoreText": {
+                                                "value": ""
+                                            },
+                                            "Text": {
+                                                "value": "&nbsp;\"A Watchful Eye\u2013Why You Should Monitor Employees' Technology Use,\" <em>Baltimore SmartCEO </em>magazine, October 2009"
+                                            }
+                                        },
+                                        "placeholders": {
+                                            "read-more-content": []
+                                        }
+                                    },
+                                    {
+                                        "uid": "2b1805f2-b56b-4827-9048-a1dc2cef5c57",
+                                        "componentName": "Highlights",
+                                        "dataSource": "{853457D9-3147-47F0-BE15-02E7C066D58F}",
+                                        "params": {},
+                                        "fields": {
+                                            "ReadMoreText": {
+                                                "value": ""
+                                            },
+                                            "Text": {
+                                                "value": ""
+                                            }
+                                        },
+                                        "placeholders": {
+                                            "read-more-content": []
+                                        }
+                                    }
+                                ]
+                            },
+                            "hasContent": true
+                        },
+                        {
+                            "uid": "1695cfdd-3345-4b0d-a0ad-db5561562076",
+                            "componentName": "MainSectionBlock",
+                            "dataSource": "{28025520-99A5-487E-A122-55E38EDED151}",
+                            "params": {},
+                            "fields": {
+                                "Header": {
+                                    "value": "Related Insights\u00a0"
+                                }
+                            },
+                            "placeholders": {
+                                "main-section": [
+                                    {
+                                        "uid": "3aaf5009-84e2-4523-93c7-82f82dbecf4a",
+                                        "componentName": "AssociatedInsights",
+                                        "dataSource": "{2050C7A5-4F32-4D36-8312-3AE106EDC439}",
+                                        "params": {},
+                                        "fields": {
+                                            "Search": {
+                                                "TotalFound": 7,
+                                                "Results": [
+                                                    {
+                                                        "Link": {
+                                                            "value": {
+                                                                "href": "/Insights/Alerts-and-Articles/2020/04/Maryland-Unemployment-Compensation-Update",
+                                                                "linktype": "internal",
+                                                                "id": "{71E28EDD-701B-4157-B61A-6B105597DC35}"
+                                                            }
+                                                        },
+                                                        "Tag": [
+                                                            {
+                                                                "id": "0b8f4dc8-92d9-49e8-837d-2278261f0188",
+                                                                "fields": {
+                                                                    "Name": {
+                                                                        "value": "Legal Alert"
+                                                                    },
+                                                                    "Key": {
+                                                                        "value": "legal-alert"
+                                                                    },
+                                                                    "Icon": {
+                                                                        "value": {
+                                                                            "src": "/-/media/Main/Icons/LegalAlert_Icon.svg?rev=21255dade4b84402b81572ef75ea4598",
+                                                                            "alt": "Legal Alert",
+                                                                            "width": "",
+                                                                            "height": ""
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        ],
+                                                        "Title": {
+                                                            "value": "Maryland: Unemployment Compensation Update"
+                                                        },
+                                                        "Date": {
+                                                            "value": "2020-04-27T05:00:00Z"
+                                                        },
+                                                        "PublicationLocationOverride": {
+                                                            "value": ""
+                                                        }
+                                                    },
+                                                    {
+                                                        "Link": {
+                                                            "value": {
+                                                                "href": "/Insights/Alerts-and-Articles/2020/04/Maryland-Provides-Guidance-on-Evictions-and-Foreclosures-During-COVID-19",
+                                                                "linktype": "internal",
+                                                                "id": "{0801BE84-ABF3-4900-802E-D40AA3C6FC62}"
+                                                            }
+                                                        },
+                                                        "Tag": [
+                                                            {
+                                                                "id": "0b8f4dc8-92d9-49e8-837d-2278261f0188",
+                                                                "fields": {
+                                                                    "Name": {
+                                                                        "value": "Legal Alert"
+                                                                    },
+                                                                    "Key": {
+                                                                        "value": "legal-alert"
+                                                                    },
+                                                                    "Icon": {
+                                                                        "value": {
+                                                                            "src": "/-/media/Main/Icons/LegalAlert_Icon.svg?rev=21255dade4b84402b81572ef75ea4598",
+                                                                            "alt": "Legal Alert",
+                                                                            "width": "",
+                                                                            "height": ""
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        ],
+                                                        "Title": {
+                                                            "value": "Maryland Provides Guidance on Evictions and Foreclosures During COVID-19"
+                                                        },
+                                                        "Date": {
+                                                            "value": "2020-04-06T05:00:00Z"
+                                                        },
+                                                        "PublicationLocationOverride": {
+                                                            "value": ""
+                                                        }
+                                                    },
+                                                    {
+                                                        "Link": {
+                                                            "value": {
+                                                                "href": "/Insights/Events/2019/04/Mindfulness-CLE",
+                                                                "linktype": "internal",
+                                                                "id": "{920DEA10-28A8-4BC8-823C-7CB954CBDF4C}"
+                                                            }
+                                                        },
+                                                        "Tag": [
+                                                            {
+                                                                "id": "30bef87d-c875-4855-9ac1-8ebcaf27a43e",
+                                                                "fields": {
+                                                                    "Name": {
+                                                                        "value": "Event"
+                                                                    },
+                                                                    "Key": {
+                                                                        "value": "event"
+                                                                    },
+                                                                    "Icon": {
+                                                                        "value": {
+                                                                            "src": "/-/media/Main/Icons/Event_Icon.svg?rev=34ee8574ba2543c987fd5c2bb8a78213",
+                                                                            "alt": "Event",
+                                                                            "width": "",
+                                                                            "height": ""
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        ],
+                                                        "Title": {
+                                                            "value": "Mindfulness for Lawyers"
+                                                        },
+                                                        "Date": {
+                                                            "value": "2019-04-16T19:00:00Z"
+                                                        },
+                                                        "PublicationLocationOverride": {
+                                                            "value": ""
+                                                        }
+                                                    },
+                                                    {
+                                                        "Link": {
+                                                            "value": {
+                                                                "href": "/Insights/News/2018/10/Ballard-Spahr-Honors-Pro-Bono-Work-Juvenile-Sentencing",
+                                                                "linktype": "internal",
+                                                                "id": "{DF4D096D-D7D7-4B0E-B20F-0DE4A390CB7E}"
+                                                            }
+                                                        },
+                                                        "Tag": [
+                                                            {
+                                                                "id": "b6b04347-0aa7-4a95-a89a-7a9ba111ffaa",
+                                                                "fields": {
+                                                                    "Name": {
+                                                                        "value": "Press Release"
+                                                                    },
+                                                                    "Key": {
+                                                                        "value": "press-release"
+                                                                    },
+                                                                    "Icon": {
+                                                                        "value": {
+                                                                            "src": "/-/media/Main/Icons/FirmNews_Icon.svg?rev=9abd7f6f86fe4895b28fe6227acee0ca",
+                                                                            "alt": "Firm News",
+                                                                            "width": "",
+                                                                            "height": ""
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        ],
+                                                        "Title": {
+                                                            "value": "Ballard Spahr Honors Lawyers for Pro Bono Work on Juvenile Sentencing Reform"
+                                                        },
+                                                        "Date": {
+                                                            "value": "2018-10-09T05:00:00Z"
+                                                        },
+                                                        "PublicationLocationOverride": {
+                                                            "value": ""
+                                                        }
+                                                    }
+                                                ],
+                                                "Pages": [
+                                                    [
+                                                        "71e28edd-701b-4157-b61a-6b105597dc35",
+                                                        "0801be84-abf3-4900-802e-d40aa3c6fc62",
+                                                        "920dea10-28a8-4bc8-823c-7cb954cbdf4c",
+                                                        "df4d096d-d7d7-4b0e-b20f-0de4a390cb7e"
+                                                    ],
+                                                    [
+                                                        "fd6dd489-151c-4333-946e-2f4c744d1978",
+                                                        "3dc08307-3c2d-4e95-8093-fa02501dbbea",
+                                                        "d56514b3-554c-4df5-bcde-2b5c6750de22"
+                                                    ]
+                                                ]
+                                            }
+                                        },
+                                        "hasContent": true
+                                    }
+                                ]
+                            },
+                            "hasContent": true
+                        },
+                        {
+                            "uid": "bafa4d66-9557-4460-8a6f-58d9a94f1282",
+                            "componentName": "MainSectionBlock",
+                            "dataSource": "{EBD4FD64-46DB-4FFE-9BFA-8B8EFF5D1655}",
+                            "params": {},
+                            "fields": {
+                                "Header": {
+                                    "value": "Credentials\u00a0"
+                                }
+                            },
+                            "placeholders": {
+                                "main-section": [
+                                    {
+                                        "uid": "dbbbdcdb-76bd-422c-b4df-a6b9f5592a21",
+                                        "componentName": "Education",
+                                        "dataSource": "{3697D320-4FD2-42AB-82EC-F75EAC068AC1}",
+                                        "params": {},
+                                        "fields": {
+                                            "Schools": [
+                                                {
+                                                    "id": "5d3cafbc-4614-44e9-accc-6bfcf0d07c18",
+                                                    "fields": {
+                                                        "Name": {
+                                                            "value": "University of Michigan Law School"
+                                                        }
+                                                    }
+                                                }
+                                            ],
+                                            "Text": {
+                                                "value": "<p>University of Michigan Law School (J.D. 1983)</p>\n<p>Central Michigan University (B.A., <em>magna cum laude</em>, 1979)</p>"
+                                            },
+                                            "ReadMoreText": {
+                                                "value": ""
+                                            }
+                                        },
+                                        "placeholders": {
+                                            "read-more-content": []
+                                        },
+                                        "hasContent": true
+                                    },
+                                    {
+                                        "uid": "061698b7-1ba2-458b-9c5a-aa81808ae7da",
+                                        "componentName": "SpokenLanguages",
+                                        "dataSource": "{7F908644-6B7D-4230-9686-1C1B4370BE33}",
+                                        "params": {},
+                                        "fields": {
+                                            "SpokenLanguages": [],
+                                            "Text": {
+                                                "value": ""
+                                            },
+                                            "ReadMoreText": {
+                                                "value": ""
+                                            }
+                                        },
+                                        "placeholders": {
+                                            "read-more-content": []
+                                        }
+                                    },
+                                    {
+                                        "uid": "d5215c7b-ec3f-41c8-afa9-9b9ca968ab68",
+                                        "componentName": "BarAdmissions",
+                                        "dataSource": "{4DE0D73F-3B8C-482B-97DA-FB67969C2B1C}",
+                                        "params": {},
+                                        "fields": {
+                                            "BarAdmissions": [],
+                                            "Text": {
+                                                "value": "<p>District of Columbia Court of Appeals </p>\n<p>Court of Appeals of Maryland </p>\n<p>U.S. District Court for the District of Columbia </p>\n<p>U.S. District Court for the District of Maryland </p>\n<p>U.S. Court of Appeals for the District of Columbia Circuit </p>\n<p>U.S. Supreme Court </p>"
+                                            },
+                                            "ReadMoreText": {
+                                                "value": ""
+                                            }
+                                        },
+                                        "placeholders": {
+                                            "read-more-content": []
+                                        }
+                                    }
+                                ]
+                            },
+                            "hasContent": true
+                        }
+                    ]
+                }
+            }
+        ],
+        "footer": [
+            {
+                "uid": "7df501a0-8f23-4c18-9bcf-2aba5197a9e2",
+                "componentName": "FooterNavigation",
+                "dataSource": "{87FA8BCC-9095-4BD7-A68E-303294563B48}",
+                "params": {},
+                "fields": {
+                    "Copyright": {
+                        "value": "\u00a92021 Ballard Spahr LLP"
+                    },
+                    "SubscribeLink": {
+                        "value": {
+                            "href": "https://response.ballardspahr.com/5/4869/landing-pages/subscribe.asp",
+                            "text": "Subscribe",
+                            "linktype": "external",
+                            "url": "https://response.ballardspahr.com/5/4869/landing-pages/subscribe.asp",
+                            "anchor": "",
+                            "target": ""
+                        }
+                    },
+                    "FooterLinks": [
+                        {
+                            "id": "dc79d70c-f73a-4420-8b02-c4c0d8665f4f",
+                            "fields": {
+                                "Text": {
+                                    "value": "Ballard360"
+                                },
+                                "Link": {
+                                    "value": {
+                                        "href": "https://ballardspahr.sharepoint.com/sites/ClientConnect",
+                                        "linktype": "external",
+                                        "url": "https://ballardspahr.sharepoint.com/sites/ClientConnect",
+                                        "anchor": "",
+                                        "target": "_blank"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": "27da3497-2802-445c-bb6f-239f593c3979",
+                            "fields": {
+                                "Link": {
+                                    "value": {
+                                        "href": "https://ballardspahr.sharepoint.com/sites/bin/firm/office-locations/Pages/Emergency-Response-Portal.aspx",
+                                        "linktype": "external",
+                                        "url": "https://ballardspahr.sharepoint.com/sites/bin/firm/office-locations/Pages/Emergency-Response-Portal.aspx"
+                                    }
+                                },
+                                "Text": {
+                                    "value": "Access Portal"
+                                }
+                            }
+                        },
+                        {
+                            "id": "da4088f6-51fd-48ee-bf13-f126ab3e1a5e",
+                            "fields": {
+                                "Text": {
+                                    "value": "Alumni"
+                                },
+                                "Link": {
+                                    "value": {
+                                        "href": "https://alumni.ballardspahr.com/default.aspx",
+                                        "linktype": "external",
+                                        "url": "https://alumni.ballardspahr.com/default.aspx",
+                                        "anchor": "",
+                                        "target": "_blank"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": "bca312af-ec37-4fc7-8194-b59dd46a3c12",
+                            "fields": {
+                                "Link": {
+                                    "value": {
+                                        "href": "https://login.firmex.com/",
+                                        "linktype": "external",
+                                        "url": "https://login.firmex.com/",
+                                        "anchor": "",
+                                        "target": "_blank"
+                                    }
+                                },
+                                "Text": {
+                                    "value": "Client Portal"
+                                }
+                            }
+                        },
+                        {
+                            "id": "f5b09c56-300c-427b-9620-aa610f57a459",
+                            "fields": {
+                                "Link": {
+                                    "value": {
+                                        "href": "/General/Privacy-Policy",
+                                        "text": "",
+                                        "anchor": "",
+                                        "linktype": "internal",
+                                        "class": "",
+                                        "title": "",
+                                        "target": "",
+                                        "querystring": "",
+                                        "id": "{FD93F6EA-D72E-4429-9128-E2CA8D4863AF}"
+                                    }
+                                },
+                                "Text": {
+                                    "value": "Privacy"
+                                }
+                            }
+                        },
+                        {
+                            "id": "44be2c5c-2446-4d0d-8159-b6635a017075",
+                            "fields": {
+                                "Text": {
+                                    "value": "Attorney Advertising"
+                                },
+                                "Link": {
+                                    "value": {
+                                        "href": "/General/Attorney-Advertising",
+                                        "id": "{59675093-7917-4CE2-9E84-492F12A9F356}",
+                                        "querystring": "",
+                                        "target": "",
+                                        "text": "",
+                                        "anchor": "",
+                                        "title": "",
+                                        "class": "",
+                                        "url": "/Sites/Main/Home/General/Attorney Advertising",
+                                        "linktype": "internal"
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "id": "c98c84b1-5c2a-4cd7-8446-9072780d8db1",
+                            "fields": {
+                                "Link": {
+                                    "value": {
+                                        "href": "/General/Copyright-Legal-Info",
+                                        "text": "",
+                                        "anchor": "",
+                                        "linktype": "internal",
+                                        "class": "",
+                                        "title": "",
+                                        "target": "",
+                                        "querystring": "",
+                                        "id": "{4EF5CDD5-94D7-4666-8B05-8C7CBEAABDD8}"
+                                    }
+                                },
+                                "Text": {
+                                    "value": "Copyright & Legal Info"
+                                }
+                            }
+                        }
+                    ],
+                    "SocialMediaLinks": [
+                        {
+                            "id": "5db69460-af62-469d-a103-aecb5dc72546",
+                            "fields": {
+                                "Icon": {
+                                    "value": {
+                                        "src": "https://www.ballardspahr.com/-/media/Images/Logos/Social-Media/facebook.svg?iar=0&rev=96708fea26ab425aa78a8851c414900a&hash=87A6B7B715E58A0069E1C41983FA98AB",
+                                        "alt": "Facebook logo"
+                                    }
+                                },
+                                "Link": {
+                                    "value": {
+                                        "href": "https://www.facebook.com/BallardSpahrLLP/about/",
+                                        "linktype": "external",
+                                        "url": "https://www.facebook.com/BallardSpahrLLP/about/"
+                                    }
+                                },
+                                "Text": {
+                                    "value": "Facebook"
+                                }
+                            }
+                        },
+                        {
+                            "id": "12d25dba-5d92-4a11-8da2-59a0273633a9",
+                            "fields": {
+                                "Icon": {
+                                    "value": {
+                                        "src": "https://www.ballardspahr.com/-/media/Images/Logos/Social-Media/linkedin.svg?iar=0&rev=20c61dd671e244e2a0e43a004f99afe2&hash=E518AA3DF5F34BDA69CB688F2CE4011B",
+                                        "alt": "LinkedIn Logo"
+                                    }
+                                },
+                                "Link": {
+                                    "value": {
+                                        "href": "https://www.linkedin.com/company/ballard-spahr-llp",
+                                        "linktype": "external",
+                                        "url": "https://www.linkedin.com/company/ballard-spahr-llp"
+                                    }
+                                },
+                                "Text": {
+                                    "value": "LinkedIn"
+                                }
+                            }
+                        },
+                        {
+                            "id": "ee9085fb-a02f-41ef-9fae-0d9367f18ae7",
+                            "fields": {
+                                "Icon": {
+                                    "value": {
+                                        "src": "https://www.ballardspahr.com/-/media/Images/Logos/Social-Media/twitter.svg?iar=0&rev=7094f49746c24046bfccbbc739417f1d&hash=FB4A4162319B682DA032B23129E05119",
+                                        "alt": "Twitter logo"
+                                    }
+                                },
+                                "Link": {
+                                    "value": {
+                                        "href": "https://twitter.com/BallardSpahrLLP",
+                                        "linktype": "external",
+                                        "url": "https://twitter.com/BallardSpahrLLP"
+                                    }
+                                },
+                                "Text": {
+                                    "value": "Twitter"
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}
